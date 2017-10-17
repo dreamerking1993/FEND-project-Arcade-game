@@ -1,6 +1,29 @@
-frontend-nanodegree-arcade-game
-===============================
+## GOAL:
+To create a Classic Arcade game as a part of Udacity Front end Nanodegree
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+### How to load the game:
+1) Downoad the zip file
+2) Open index.html with suitable browser
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+### The goal of the game:
+The job is to move the player to the water without touching the bugs. Every collision with any bug will count as failure and bring the player to default position. While, everytime the player reaches the water safely, it will count as success.
+The goal is to get three successes.
+
+### How to play the game:
+1)_Press arrow keys to move the player._
+2)_Maneuver the player without colliding with bugs._
+3)_Reach the water at the top._
+
+
+### Tools Used:
+- HTML
+- CSS
+- Javascript
+- Jquerry
+
+
+
+### Resources used to complete the project:
+1)Mozilla Developer's Network
+2)Stackoverflow.com
+3)w3schools.com
